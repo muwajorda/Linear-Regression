@@ -1,2 +1,2 @@
-# Data-Science-
-Repository for a collection of data science projects
+# Linear Regression
+Repository for data analysis projects involving linear Regression
